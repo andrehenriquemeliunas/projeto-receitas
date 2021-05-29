@@ -1,0 +1,35 @@
+body{
+   background-image: url(mídias/início\ .png);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+div{
+    background-color: rgba(255, 255, 255, 0.911);
+    width: 500px;
+    height: 200px;
+    padding-top: 20px;
+    margin-top: 240px;
+    border-radius: 15px;
+    color: black;
+}
+
+#txtreceita{
+    width: 200px;
+    height: 40px;
+}
+
+#botao{
+    width: 80px;
+    height: 40px;
+    
+    
+}
+header{
+    background-color: white;
+    width: 50px;
+    border-radius: 10px;
+}
+p{
+    padding-left: 50px;
+    padding-right: 50px;
+}

@@ -1,0 +1,24 @@
+header{
+    background-color: white;
+    width: 50px;
+    border-radius: 10px;
+}
+#text{
+    
+    width: 1200px;
+    height: 600px;
+    padding-left: 100px;
+    padding-top: 30px;
+    margin-top: 60px;
+
+}
+body{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+p{
+    padding-right: 350px;
+    text-align: justify;
+}
+
